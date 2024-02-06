@@ -1,0 +1,77 @@
+ACKNOWLEDGEMENTS
+In every success achieved, He is the one who leads me. In every failure and obstacle met, He is the one to lift me. In every challenge taken, He is my source of inspiration and strength…                                                                                                                        And my source of inspiration and strength is my beloved Swami .
+Being a constant pillar of support and guiding me throughout in my journey with the subject computer science is my teacher, Venkateswar Prusty.                                 
+I would also like to thank the principal, Sri Shivaramakrishnaiah for providing the facilities and time to complete this project.
+I thank my parents who, with all love and affection, have been a constant source of inspiration and support, and have always encouraged me in each of my endeavors.
+I would like to thank my senior Arnav who taught and helped me complete this project.
+I would like to thank all my computer science classmates and friends for their constant support and encoragement.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############@
+There is always a divine hand in the background which facilitates
+whatever I do and makes it successful. This divine hand is our
+beloved Bhagawan’s who is the reason for this project too. I
+gratefully acknowledge Swami without whom this wouldn’t be
+possible.
+Most importantly, I thank my revered computer science teacher,
+Mr. Venkateswar Prusty, who has been by my side, guiding me
+through every step of my journey in computer science and patiently
+helped me.
+I also thank the revered principal of the Sri Sathya Sai Higher
+Secondary school, Sri Shivaramakrishnaih, for giving such moral
+support by providing such amazing facilities.
+I thank my parents who, with all love and affection, have been a
+constant source of inspiration and support, and have always
+encouraged me in this endeavor.
+Finally, I would like to thank my fellow class mates- Anurag
+Pradhan, Bala Sai Kiran, Devaharsha, Karthikeya Jaiswal, Pintu
+Kumar Roy, Rohan Vashisth, T. Sai Abhishek, Sai Krishna, N. Sai
+Kamalesh, Sree Hari, Sreevatsava and Yogesh Sridhar who have
+supported me and decorated my course of Computer Science in the
+school.
+
+
+
+
+
+
+
+
+############################PROG DES
+PROGRAM    DESIGN
+	This project was created using  pygame  for graphics and tkinter   for main menu.In this game  in-built graphics provided by pygame module have been used, with the help of tkinter and using the module  tkvideo   a video file is played as an introduction to the game .The code also contains music which are played with the help of mixer .
+Global varibles :
+•	SCREEN_WIDTH     : stores the width of screen.
+•	SCREEN_HEIGHT    : stores the height of screen.
+•	health_p1		    : stores the health of player 1
+•	health_p2		    : stores the health of player 2
+•	x
+•	y
+•	x2
+•	y2
+
+
+
+
+
+
+
+
+
+#######################MINE
+AT EVERY STAGE HE IS THE ONE  WHO GUIDES ME , WHO  
